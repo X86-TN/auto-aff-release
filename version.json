@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
   "changelog": "Bản phát hành thương mại v1.0.2: Tích hợp OTA Auto-Update, Chẩn đoán lỗi 1-Click, Hỗ trợ kỹ thuật từ xa và Bản quyền khóa cứng HWID.",
-  "released_at": "2026-10-16 01:05:00",
-  "patch_size_kb": 740.4,
+  "released_at": "2026-10-16 01:11:14",
+  "patch_size_kb": 740.5,
   "files_count": 56
 }
