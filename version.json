@@ -1,7 +1,7 @@
 {
   "version": "1.0.3",
-  "changelog": "Phiên bản v1.0.3: Ẩn 100% cửa sổ CMD khi chạy AUTO_AFF.exe, tích hợp tự động kéo gói chẩn đoán XML từ xa theo mã máy HWID và khóa bản quyền nghiêm ngặt.",
-  "released_at": "2026-10-16 11:06:09",
-  "patch_size_kb": 743.1,
+  "changelog": "Cập nhật bảo mật Zero-Knowledge cho licenses.enc và làm sạch biểu tượng bản quyền trên Logo",
+  "released_at": "2026-10-16 11:16:18",
+  "patch_size_kb": 744.9,
   "files_count": 56
 }
