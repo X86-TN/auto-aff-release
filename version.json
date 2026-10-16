@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "changelog": "Bản cập nhật v1.1.1:\n1. Hoàn thiện tự động hóa 19 bước đăng Shopee Video Affiliate kèm gắn link Tiếp Thị Liên Kết.\n2. Bổ sung lệnh xóa sạch 100% ảnh + video cũ trong điện thoại (DCIM, Pictures, Movies, Download, MediaStore, Shopee Cache) và đặt tên file theo timestamp độc nhất chống dính ảnh cũ.\n3. Tự động xóa cặp Ảnh + Video trên điện thoại và trong KhoVideoShopee ngay khi màn hình về Live & Video, chờ ngẫu nhiên 50 - 200s (hiển thị đếm ngược từng giây trên giao diện), thoát app Shopee rồi đăng tiếp.\n4. Bổ sung cài đặt số video muốn đăng trong ngày (Tối đa 50 video/ngày theo quy định Shopee) và khóa cứng kèm thông báo 'Bạn đã đạt giới hạn đăng 50 video / ngày'.\n5. Bổ sung nút '➕ Thêm Nick TikTok' và '📁 Chọn Thư Mục Nick' trực tiếp trên thanh 'DANH SÁCH NICK TIKTOK TRÊN CÁC MÁY' kèm menu chọn điện thoại tiện lợi.",
-  "released_at": "2026-10-16 18:04:50",
-  "patch_size_kb": 779.6,
+  "version": "1.1.2",
+  "changelog": "Bản cập nhật v1.1.2: Đưa toàn bộ cụm 4 nút [➕ Thêm Nick TikTok] [📁 Chọn Thư Mục Nick] [☑️ Chọn tất cả] [🔄 ĐỔI MÁY] lên ngay đầu dòng DANH SÁCH NICK TIKTOK TRÊN CÁC MÁY để khi thu nhỏ cửa sổ vẫn luôn hiển thị rõ ràng.",
+  "released_at": "2026-10-16 18:10:17",
+  "patch_size_kb": 778.7,
   "files_count": 56
 }
