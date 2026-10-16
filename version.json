@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "changelog": "Bản cập nhật v1.0.7: Chặn triệt để lỗi Muse AI trả lời hẹn khất bằng chữ (ảo giác hội thoại sau khi chạy nhiều video), tự động phát hiện sớm sau 20-30s để ngắt chờ, tự động đính kèm lại bộ ảnh tham chiếu khi retry ở chế độ 10s, hỗ trợ giao diện Muse Tiếng Anh (Message/Send) và chờ kết nối VM hoàn tất.",
-  "released_at": "2026-10-16 14:24:43",
-  "patch_size_kb": 761.7,
+  "version": "1.0.8",
+  "changelog": "Bản cập nhật v1.0.8: Sửa triệt để lỗi hiển thị nhầm trạng thái Đang chạy / Đang render trên danh sách Nick TikTok khi mới mở phần mềm (chưa ấn Bắt đầu chạy).",
+  "released_at": "2026-10-16 14:31:15",
+  "patch_size_kb": 762.5,
   "files_count": 56
 }
