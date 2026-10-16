@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "changelog": "Bản cập nhật v1.0.8: Sửa triệt để lỗi hiển thị nhầm trạng thái Đang chạy / Đang render trên danh sách Nick TikTok khi mới mở phần mềm (chưa ấn Bắt đầu chạy).",
-  "released_at": "2026-10-16 14:31:15",
-  "patch_size_kb": 762.5,
+  "version": "1.0.9",
+  "changelog": "Kho Video Shopee: Xoa sach kho cu & file .json, luu cap (1 Video .mp4 + 1 Anh SP dau tien .jpg cung ten) khi lam xong video TikTok de tim kiem bang hinh anh tren Shopee",
+  "released_at": "2026-10-16 14:59:41",
+  "patch_size_kb": 766.5,
   "files_count": 56
 }
