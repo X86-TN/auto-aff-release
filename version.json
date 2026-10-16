@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "changelog": "Bản cập nhật v1.0.5: Sửa triệt để lỗi chuyển màn hình Preview Video (id/q2m) sang Video Editor thật trên Samsung X86 (SM-N975F), sửa đa tầng gỡ nhạc nền tự động TikTok (chặn OCR đọc nhầm Thêm âm thanh mở nhầm bảng nhạc), tự động duyệt popup LynxView Thêm sản phẩm? và bổ sung trọn bộ Resource ID màn hình Đăng mới (id/h9r, id/tl8, id/q2t, id/q2v, id/opd). Đã kiểm chứng đăng thực tế 5/5 video trên X86 1.",
-  "released_at": "2026-10-16 12:25:31",
-  "patch_size_kb": 748.6,
+  "version": "1.0.6",
+  "changelog": "Bản cập nhật v1.0.6: Thiết kế lại mục Quản Lý Shopee tinh gọn (thêm máy thủ công, thẻ máy 1 hàng gọn đẹp kèm Checkbox chọn chạy, đổi tên máy/nick Shopee, tự động kiểm tra chờ máy hoàn tất TikTok mới mở app Shopee, khóa độc quyền 1 video/1 máy chống trùng lặp và lọc sạch tiêu đề cấm tiktok, fb, facebook, zalo, *).",
+  "released_at": "2026-10-16 14:09:23",
+  "patch_size_kb": 760.3,
   "files_count": 56
 }
