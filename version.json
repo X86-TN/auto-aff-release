@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "changelog": "Bản cập nhật v1.1.2: Đưa toàn bộ cụm 4 nút [➕ Thêm Nick TikTok] [📁 Chọn Thư Mục Nick] [☑️ Chọn tất cả] [🔄 ĐỔI MÁY] lên ngay đầu dòng DANH SÁCH NICK TIKTOK TRÊN CÁC MÁY để khi thu nhỏ cửa sổ vẫn luôn hiển thị rõ ràng.",
-  "released_at": "2026-10-16 18:10:17",
-  "patch_size_kb": 778.7,
+  "version": "1.1.3",
+  "changelog": "Nâng cấp hệ thống Quản Lý Bản Quyền Đa Gói Cước (1 Tháng 399K, 3 Tháng 799K, 6 Tháng 1.399K, Vĩnh Viễn 3.999K): tự động tính hạn dùng, kiểm tra hết hạn theo thời gian thực và nút Gia Hạn / Nâng Cấp 1-Click cho Admin.",
+  "released_at": "2026-10-16 18:30:34",
+  "patch_size_kb": 784.7,
   "files_count": 56
 }
