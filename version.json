@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "changelog": "Fix triệt để lỗi vượt màn hình Xem trước Video (id/q2m), tắt nhạc tự động đa tầng và xử lý popup xác nhận Showcase trên dòng máy Samsung X86 1 (SM N975F).",
-  "released_at": "2026-10-16 11:47:12",
-  "patch_size_kb": 748.2,
+  "version": "1.0.5",
+  "changelog": "Bản cập nhật v1.0.5: Sửa triệt để lỗi chuyển màn hình Preview Video (id/q2m) sang Video Editor thật trên Samsung X86 (SM-N975F), sửa đa tầng gỡ nhạc nền tự động TikTok (chặn OCR đọc nhầm Thêm âm thanh mở nhầm bảng nhạc), tự động duyệt popup LynxView Thêm sản phẩm? và bổ sung trọn bộ Resource ID màn hình Đăng mới (id/h9r, id/tl8, id/q2t, id/q2v, id/opd). Đã kiểm chứng đăng thực tế 5/5 video trên X86 1.",
+  "released_at": "2026-10-16 12:25:31",
+  "patch_size_kb": 748.6,
   "files_count": 56
 }
