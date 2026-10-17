@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "changelog": "Nâng cấp hệ thống Super Proxy: Thay thế hoàn toàn cơ chế proxy cũ bằng Super Proxy (com.scheler.superproxy), tự động ghi nhớ và khởi động 1 chạm, kích hoạt Luôn bật VPN (Always-on VPN) chống rớt mạng, chốt chặn an toàn 3 lớp bảo vệ tài khoản và chống lộ IP, miễn trừ tuyệt đối máy Oppo A53.",
-  "released_at": "2026-10-17 10:23:22",
-  "patch_size_kb": 803.0,
+  "version": "1.1.6",
+  "changelog": "Cập nhật giao diện Quản lý Farm & Super Proxy v1.1.6:\n- Tinh gọn giao diện: Bảng Nick TikTok bung rộng toàn màn hình bên trái.\n- Danh sách Điện thoại chuyển sang cột phải xếp dọc gọn gàng, trực quan.\n- Thêm nút [Prompt] cấu hình kịch bản riêng trong bảng nick.\n- Thêm nút [Mở Thư Mục Video] tại Kho Video Shopee.\n- Tự động cấu hình Super Proxy 1 lần chạm & Always-on VPN.",
+  "released_at": "2026-10-17 10:44:26",
+  "patch_size_kb": 805.1,
   "files_count": 57
 }
