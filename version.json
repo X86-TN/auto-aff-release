@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "changelog": "Fix Muse AI Side Chat (/thread/new) anti-timeout & profile rotation, fix false popup detection, isolate per-device temp_dir, filter PDP PayLater/shipping badges, fix QThread retirement crash, and fix right-side Phone Management panel layout + live running status badges.",
-  "released_at": "2026-10-17 21:14:48",
-  "patch_size_kb": 814.0,
+  "version": "1.1.10",
+  "changelog": "Chốt chặn kiểm tra cài đặt & foreground Shopee (com.shopee.vn) ở toàn bộ 19 bước, chống mở nhầm Camera, chống đếm láo/xóa video khi chưa mở được app hoặc chưa bấm Đăng, và chặn hộp thoại UninstallerActivity.",
+  "released_at": "2026-10-17 21:44:00",
+  "patch_size_kb": 816.6,
   "files_count": 58
 }
