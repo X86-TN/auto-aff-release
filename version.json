@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
+  "version": "1.1.9",
   "changelog": "Fix Muse AI Side Chat (/thread/new) anti-timeout & profile rotation, fix false popup detection, isolate per-device temp_dir, filter PDP PayLater/shipping badges, fix QThread retirement crash, and fix right-side Phone Management panel layout + live running status badges.",
-  "released_at": "2026-10-17 21:14:25",
+  "released_at": "2026-10-17 21:14:48",
   "patch_size_kb": 814.0,
   "files_count": 58
 }
