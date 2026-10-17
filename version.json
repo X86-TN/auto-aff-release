@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "changelog": "Cập nhật giao diện Quản lý Farm & Super Proxy v1.1.6:\n- Tinh gọn giao diện: Bảng Nick TikTok bung rộng toàn màn hình bên trái.\n- Danh sách Điện thoại chuyển sang cột phải xếp dọc gọn gàng, trực quan.\n- Thêm nút [Prompt] cấu hình kịch bản riêng trong bảng nick.\n- Thêm nút [Mở Thư Mục Video] tại Kho Video Shopee.\n- Tự động cấu hình Super Proxy 1 lần chạm & Always-on VPN.",
-  "released_at": "2026-10-17 10:44:26",
+  "version": "1.1.7",
+  "changelog": "Sửa lỗi treo/đóng băng UI khi bấm Bắt Đầu Đăng Shopee: Loại bỏ popup modal lock, tối ưu UI thread, bảo vệ luồng nền Shopee Worker.",
+  "released_at": "2026-10-17 11:42:28",
   "patch_size_kb": 805.1,
   "files_count": 57
 }
