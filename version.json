@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "changelog": "Sửa triệt để lỗi gắn sai sản phẩm trong Trang trưng bày (tách từ khóa đặc trưng + truyền raw_product_title + chốt chặn _verify_selected_anchor_product trên màn hình Đổi tên sản phẩm), sửa lỗi nhận diện tag Mua ở đây trên Samsung X86 2 (1080x2220), tự động đóng popup CameraTikTok widget, và lọc nhanh sản phẩm Flash Sale 1đ trên Cửa hàng.",
-  "released_at": "2026-10-16 23:02:57",
-  "patch_size_kb": 790.8,
-  "files_count": 56
+  "version": "1.1.5",
+  "changelog": "Nâng cấp hệ thống Super Proxy: Thay thế hoàn toàn cơ chế proxy cũ bằng Super Proxy (com.scheler.superproxy), tự động ghi nhớ và khởi động 1 chạm, kích hoạt Luôn bật VPN (Always-on VPN) chống rớt mạng, chốt chặn an toàn 3 lớp bảo vệ tài khoản và chống lộ IP, miễn trừ tuyệt đối máy Oppo A53.",
+  "released_at": "2026-10-17 10:23:22",
+  "patch_size_kb": 803.0,
+  "files_count": 57
 }
