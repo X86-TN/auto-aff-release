@@ -1,7 +1,7 @@
 {
-  "version": "1.1.10",
-  "changelog": "Chốt chặn kiểm tra cài đặt & foreground Shopee (com.shopee.vn) ở toàn bộ 19 bước, chống mở nhầm Camera, chống đếm láo/xóa video khi chưa mở được app hoặc chưa bấm Đăng, và chặn hộp thoại UninstallerActivity.",
-  "released_at": "2026-10-17 21:44:00",
-  "patch_size_kb": 816.6,
+  "version": "1.1.11",
+  "changelog": "Tự động tắt Proxy v2rayNG (dùng IP trực tiếp) chỉ trên máy có tài khoản Shopee khi bắt đầu đăng Shopee Video, và tự động bật lại Proxy sau khi hoàn tất đăng toàn bộ video Shopee.",
+  "released_at": "2026-10-17 21:49:19",
+  "patch_size_kb": 817.5,
   "files_count": 58
 }
