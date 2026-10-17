@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "changelog": "Tích hợp v2rayNG Proxy: Kết nối ngầm không quảng cáo, tự động cấp quyền VPN qua ADB, sửa lỗi kẹt nút kích hoạt/test IP trên giao diện.",
-  "released_at": "2026-10-17 17:55:18",
-  "patch_size_kb": 807.0,
+  "version": "1.0.30",
+  "changelog": "Fix Muse AI Side Chat (/thread/new) anti-timeout & profile rotation, fix false popup detection, isolate per-device temp_dir, filter PDP PayLater/shipping badges, fix QThread retirement crash, and fix right-side Phone Management panel layout + live running status badges.",
+  "released_at": "2026-10-17 21:14:25",
+  "patch_size_kb": 814.0,
   "files_count": 58
 }
