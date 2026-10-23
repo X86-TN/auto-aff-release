@@ -1,7 +1,7 @@
 {
-  "version": "1.1.13",
-  "changelog": "Cập nhật tính năng Làm Video Shopee AI tự động 16 bước (tối đa 50 video/ngày/nick, tự động chọn Muse AI rảnh, Gemini viết prompt 20s 9:16 và dọn sạch file tạm).",
-  "released_at": "2026-10-23 17:00:57",
-  "patch_size_kb": 859.5,
+  "version": "1.1.14",
+  "changelog": "Cập nhật quy trình gắn giỏ hàng mới từ trang sản phẩm chống gắn sai 100% (Hình 1 -> Hình 5), xóa sạch 100% ảnh cũ + video cũ trước khi đẩy video, và loại bỏ lưu cặp ảnh/video Shopee thừa.",
+  "released_at": "2026-10-23 21:43:55",
+  "patch_size_kb": 864.5,
   "files_count": 59
 }
