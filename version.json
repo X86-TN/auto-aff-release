@@ -1,7 +1,7 @@
 {
-  "version": "1.1.12",
-  "changelog": "v1.1.12: Thêm nút & quy trình tự động '🤖 Làm Video Shopee AI' 16 bước khép kín (tắt Proxy, chọn SP ngẫu nhiên ở Gợi ý hôm nay, tải ảnh vào shopee ai/<tên máy>/anh sp, xóa sạch 100% ảnh/video cũ ngay sau khi lưu PC và ngay trước khi đẩy video AI mới vào máy, làm sạch tiêu đề lưu vào thong tin sp.txt, Gemini viết prompt 20s 9:16 + tự động chọn tài khoản Muse AI rảnh, nhập tiêu đề từ thong tin sp.txt, bật Video tạo bởi AI, nhấn Đăng, delay 60-150s tại màn Live & Video, đếm thống kê tối đa 50 video/ngày/nick).",
-  "released_at": "2026-10-23 12:04:17",
-  "patch_size_kb": 860.0,
+  "version": "1.1.13",
+  "changelog": "Cập nhật tính năng Làm Video Shopee AI tự động 16 bước (tối đa 50 video/ngày/nick, tự động chọn Muse AI rảnh, Gemini viết prompt 20s 9:16 và dọn sạch file tạm).",
+  "released_at": "2026-10-23 17:00:57",
+  "patch_size_kb": 859.5,
   "files_count": 59
 }
